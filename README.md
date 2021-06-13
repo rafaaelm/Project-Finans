@@ -3,4 +3,4 @@
 </p>
 Um site desenvolvido com a tecnologia HTML5, CSS Bootsatrap e JavaScript.
 
-Obs: Esse Site foi desenvolvido a nível didático.
+Obs: Esse site foi desenvolvido a nível didático.
